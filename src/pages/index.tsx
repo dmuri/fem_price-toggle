@@ -3,7 +3,6 @@ import PlanGroup from "@/components/PlanGroup";
 import { Montserrat } from "next/font/google";
 import AnnuallyMonthlySelector from "@/components/AnnuallyMonthlySelector";
 import React, { useState } from "react";
-import { Switch } from "@headlessui/react";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 
